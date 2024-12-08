@@ -1,5 +1,6 @@
-#Book Finder App
+# Book Finder App
 A Swift project to create a book discovery and reading app.
+
 ##Features
 -Browse Books by Genre on the Main Page <br>
 -Book Details (Author, Synopsis, Release Date, etc.) <br>
